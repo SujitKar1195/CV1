@@ -1,0 +1,16 @@
+table{
+    background-color: black;
+    border: 2px solid yellow;
+}
+th{
+    color: blueviolet;
+    
+}
+td{
+    color: rgb(127, 238, 15);
+}
+body{
+    background-color: black;
+    color: gold;
+}
+
